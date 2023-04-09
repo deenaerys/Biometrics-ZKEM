@@ -1,0 +1,2 @@
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\obj\Release\Interop.zkemkeeper.dll
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\obj\Release\Device.csproj.ResolveComReference.cache

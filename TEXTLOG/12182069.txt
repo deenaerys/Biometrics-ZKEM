@@ -1,0 +1,3 @@
+2069/12/18 03:54:40, Event:Access, Door:1, Card No.:,
+2069/12/18 21:24:16, Event:Access, Door:1, Card No.:,
+2069/12/18 23:32:16, Event:Access, Door:1, Card No.:,

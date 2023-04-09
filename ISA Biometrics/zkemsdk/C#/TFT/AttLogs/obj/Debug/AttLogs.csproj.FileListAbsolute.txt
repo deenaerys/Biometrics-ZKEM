@@ -1,0 +1,22 @@
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\bin\Debug\AttLogs.exe
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\bin\Debug\AttLogs.pdb
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\bin\Debug\Interop.zkemkeeper.dll
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\obj\Debug\ResolveAssemblyReference.cache
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\obj\Debug\Interop.zkemkeeper.dll
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\obj\Debug\AttLogs.csproj.ResolveComReference.cache
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\obj\Debug\AttLogs.AttLogsMain.resources
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\obj\Debug\AttLogs.Properties.Resources.resources
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\obj\Debug\AttLogs.csproj.GenerateResource.Cache
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\obj\Debug\AttLogs.exe
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\obj\Debug\AttLogs.pdb
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\obj\Debug\Interop.zkemkeeper.dll
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\obj\Debug\AttLogs.csproj.ResolveComReference.cache
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\obj\Debug\AttLogs.exe
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\obj\Debug\AttLogs.pdb
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\bin\Debug\AttLogs.exe
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\bin\Debug\AttLogs.pdb
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\bin\Debug\Interop.zkemkeeper.dll
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\obj\Debug\AttLogs.AttLogsMain.resources
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\obj\Debug\AttLogs.Properties.Resources.resources
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AttLogs\obj\Debug\AttLogs.csproj.GenerateResource.Cache

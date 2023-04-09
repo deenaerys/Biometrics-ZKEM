@@ -1,0 +1,13 @@
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AccessControl\obj\Release\Interop.zkemkeeper.dll
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AccessControl\obj\Release\AccessControl.csproj.ResolveComReference.cache
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AccessControl\obj\Release\Interop.zkemkeeper.dll
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AccessControl\obj\Release\AccessControl.csproj.ResolveComReference.cache
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AccessControl\bin\Release\AccessControl.exe
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AccessControl\bin\Release\AccessControl.pdb
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AccessControl\bin\Release\Interop.zkemkeeper.dll
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AccessControl\obj\Release\ResolveAssemblyReference.cache
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AccessControl\obj\Release\AccessControl.ACMain.resources
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AccessControl\obj\Release\AccessControl.Properties.Resources.resources
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AccessControl\obj\Release\AccessControl.csproj.GenerateResource.Cache
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AccessControl\obj\Release\AccessControl.exe
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\AccessControl\obj\Release\AccessControl.pdb

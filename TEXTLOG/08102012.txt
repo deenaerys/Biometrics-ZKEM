@@ -1,0 +1,8 @@
+2012-08-10 09:43:32, Event:Access, Door:1, Card No.:00002,
+2012-08-10 10:00:52, Event:Access, Door:1, Card No.:00002,
+2012-08-10 10:27:48, Event:Access, Door:1, Card No.:00002,
+2012-08-10 10:28:14, Event:Access, Door:1, Card No.:00002,
+2012-08-10 10:30:20, Event:Access, Door:1, Card No.:00002,
+2012-08-10 10:30:24, Event:Access, Door:1, Card No.:00002,
+2012-08-10 10:42:12, Event:Access, Door:1, Card No.:00002,
+2012-08-10 11:23:27, Event:Access, Door:1, Card No.:00002,

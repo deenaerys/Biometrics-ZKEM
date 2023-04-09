@@ -1,0 +1,1 @@
+2069/12/14 16:42:40, Event:Access, Door:1, Card No.:,

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Access">
+</Property><Property Name="Solution File" Value="D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\Black&amp;White\AccessControl\Access.sln">
+</Property><Property Name="User Options File" Value="D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\Black&amp;White\AccessControl\Access.suo">
+</Property><Property Name="Date" Value="Saturday, July 18, 2015">
+</Property><Property Name="Time" Value="9:16 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Access.sln" Description="File successfully backed up as D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\Black&amp;White\AccessControl\Backup\Access.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Access.suo" Description="File successfully backed up as D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\Black&amp;White\AccessControl\Backup\Access.suo">
+</Event><Event ErrorLevel="0" Project="AccessControl" Source="AccessControl.csproj" Description="Project file successfully backed up as D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\Black&amp;White\AccessControl\Backup\AccessControl.csproj">
+</Event><Event ErrorLevel="0" Project="AccessControl" Source="ACMain.cs" Description="File successfully backed up as D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\Black&amp;White\AccessControl\Backup\ACMain.cs">
+</Event><Event ErrorLevel="0" Project="AccessControl" Source="ACMain.Designer.cs" Description="File successfully backed up as D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\Black&amp;White\AccessControl\Backup\ACMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AccessControl" Source="Program.cs" Description="File successfully backed up as D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\Black&amp;White\AccessControl\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="AccessControl" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\Black&amp;White\AccessControl\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AccessControl" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\Black&amp;White\AccessControl\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AccessControl" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\Black&amp;White\AccessControl\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AccessControl" Source="SearchforUSBCom.cs" Description="File successfully backed up as D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\Black&amp;White\AccessControl\Backup\SearchforUSBCom.cs">
+</Event><Event ErrorLevel="0" Project="AccessControl" Source="Properties\Settings.settings" Description="File successfully backed up as D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\Black&amp;White\AccessControl\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AccessControl" Source="images\top.jpg" Description="File successfully backed up as D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\Black&amp;White\AccessControl\Backup\images\top.jpg">
+</Event><Event ErrorLevel="0" Project="AccessControl" Source="ACMain.resx" Description="File successfully backed up as D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\Black&amp;White\AccessControl\Backup\ACMain.resx">
+</Event><Event ErrorLevel="0" Project="AccessControl" Source="Properties\Resources.resx" Description="File successfully backed up as D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\Black&amp;White\AccessControl\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AccessControl" Source="AccessControl.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AccessControl" Source="AccessControl.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Access.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Access.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AccessControl" Source="AccessControl.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,1 @@
+2011-11-29 12:03:14, Event:Access, Door:1, Card No.:00001,

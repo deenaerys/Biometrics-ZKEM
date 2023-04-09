@@ -1,0 +1,22 @@
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\bin\Debug\Device.exe
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\bin\Debug\Device.pdb
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\bin\Debug\Interop.zkemkeeper.dll
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\obj\Debug\ResolveAssemblyReference.cache
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\obj\Debug\Interop.zkemkeeper.dll
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\obj\Debug\Device.csproj.ResolveComReference.cache
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\obj\Debug\Device.DeviceMain.resources
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\obj\Debug\Device.Properties.Resources.resources
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\obj\Debug\Device.csproj.GenerateResource.Cache
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\obj\Debug\Device.exe
+G:\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\obj\Debug\Device.pdb
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\obj\Debug\Interop.zkemkeeper.dll
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\obj\Debug\Device.csproj.ResolveComReference.cache
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\obj\Debug\Device.exe
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\obj\Debug\Device.pdb
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\bin\Device.exe
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\bin\Device.pdb
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\bin\Interop.zkemkeeper.dll
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\obj\Debug\Device.DeviceMain.resources
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\obj\Debug\Device.Properties.Resources.resources
+D:\SOURCE CODES 2.0\Biometrics ZKEM\ISA Biometrics\zkemsdk\C#\TFT\Device Management\obj\Debug\Device.csproj.GenerateResource.Cache
